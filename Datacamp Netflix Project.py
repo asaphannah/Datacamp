@@ -244,7 +244,7 @@ get_ipython().run_cell_magic('nose', '', 'import numpy as np\n\nx_axis_data = ne
 
 
 # Are we certain that movies are getting shorter?
-are_movies_getting_shorter = "more short movies are being released as time goes on, but this does not stop longer movies from being made too."
+are_movies_getting_shorter = "yes"
 
 
 # In[201]:
